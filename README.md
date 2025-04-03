@@ -1,4 +1,4 @@
-# JetEngine Bulk Relations
+# Plugin JetEngine Bulk Relations
 
 **Version:** 1.2
 
